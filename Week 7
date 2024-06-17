@@ -5,7 +5,7 @@ Enqueue
 Dequeue
 Display the elements in a Queue
 
-  Algorithm:
+  Algorithm: 
    CODE:-
 //Queue linked list
 #include <stdio.h>
