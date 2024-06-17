@@ -3,7 +3,7 @@ Write a C program to create a graph and find a minimum spanning tree using prims
 Algorithm:
 CODE:
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 #include <limits.h>
 #include <stdbool.h>
 
