@@ -6,7 +6,7 @@ Rehashing
 
 Algorithm:
 CODE:
-i)Open Addressing:
+i)Open Addressing: 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
